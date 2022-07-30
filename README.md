@@ -39,6 +39,8 @@
 
 ## Ссылки
 
+[Справочник по DOCS Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
 ## Цитаты
 
 
