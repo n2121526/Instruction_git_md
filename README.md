@@ -42,6 +42,6 @@
 [Справочник по DOCS Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
 ## Цитаты
-
+> Пример цитаты, в которой угловая скобка ставится перед началом нового параграфа.
 
 ## Заключение
